@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-style:oblique;
+    background-repeat: no-repeat;
+    background-color: brown;
+
+}
+table,th,td{
+    background-image: url("https://forums.autodesk.com/autodesk/attachments/autodesk/133/153682/2/2.PNG");
+    border-style: ridge;
+    border: 3px solid black(230 ,0,0);
+    width: 50%;
+    border-radius: 100px;
+    margin:40px;
+    padding: 20px;
+}
+ol{
+   color: rgb(0, 255, 47);
+   list-style-type:lower-alpha;
+}
+body{
+    background-image: url("https://cutec.uoc.ac.in/images/zzcutec_vda.jpg");
+}
+.first{
+    margin: 100px 50px;
+}
+h3{
+    color:aquamarine;
+}
